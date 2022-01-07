@@ -3,4 +3,4 @@ Development of a GIF catalog that has search functionality, interaction with an 
 
 Handling of HTML, CSS, SCSS and Javascript.
 
-URL: https://carolinaulla.github.io/guifOs/
+URL: https://carolinaulla.github.io/Gifs/
